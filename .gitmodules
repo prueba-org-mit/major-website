@@ -1,0 +1,3 @@
+[submodule "posts-de-vicky"]
+	path = posts-de-vicky
+	url = https://github.com/prueba-org-mit/posts-de-vicky.git
