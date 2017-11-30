@@ -1,4 +1,3 @@
-filename=2017-11-30-prueba-de-post-por-marighella.md
 ---
 date: "2017-11-30T11:18:45-03:00"
 tags:
